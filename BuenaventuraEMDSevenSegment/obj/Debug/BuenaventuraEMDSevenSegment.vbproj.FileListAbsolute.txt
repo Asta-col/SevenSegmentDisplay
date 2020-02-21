@@ -1,0 +1,11 @@
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDSevenSegment\BuenaventuraEMDSevenSegment\bin\Debug\BuenaventuraEMDSevenSegment.exe.config
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDSevenSegment\BuenaventuraEMDSevenSegment\bin\Debug\BuenaventuraEMDSevenSegment.exe
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDSevenSegment\BuenaventuraEMDSevenSegment\bin\Debug\BuenaventuraEMDSevenSegment.pdb
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDSevenSegment\BuenaventuraEMDSevenSegment\bin\Debug\BuenaventuraEMDSevenSegment.xml
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDSevenSegment\BuenaventuraEMDSevenSegment\obj\Debug\BuenaventuraEMDSevenSegment.vbprojAssemblyReference.cache
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDSevenSegment\BuenaventuraEMDSevenSegment\obj\Debug\BuenaventuraEMDSevenSegment.Form1.resources
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDSevenSegment\BuenaventuraEMDSevenSegment\obj\Debug\BuenaventuraEMDSevenSegment.Resources.resources
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDSevenSegment\BuenaventuraEMDSevenSegment\obj\Debug\BuenaventuraEMDSevenSegment.vbproj.GenerateResource.cache
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDSevenSegment\BuenaventuraEMDSevenSegment\obj\Debug\BuenaventuraEMDSevenSegment.exe
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDSevenSegment\BuenaventuraEMDSevenSegment\obj\Debug\BuenaventuraEMDSevenSegment.xml
+C:\Users\Em Buenaventura\source\repos\BuenaventuraEMDSevenSegment\BuenaventuraEMDSevenSegment\obj\Debug\BuenaventuraEMDSevenSegment.pdb
